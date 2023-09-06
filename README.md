@@ -1,3 +1,3 @@
 # HerbCare
 
-Projeto de TCC - FATEC Rubens Lara (em progresso).
+Projeto de TCC - FATEC Rubens Lara (em andamento).
